@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Release builds allow HTTPS only. The debug build overrides this file (src/debug/res/xml)
+     to allow plain HTTP to a local API. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+</network-security-config>

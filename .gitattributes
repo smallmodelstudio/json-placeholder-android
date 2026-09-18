@@ -1,0 +1,6 @@
+# The repo is edited from both Windows and WSL: store LF, except where Windows needs CRLF.
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.jar binary
+*.png binary

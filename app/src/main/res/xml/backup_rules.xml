@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Backup rules for Android 11 and lower. The app stores nothing worth backing up yet. -->
+<full-backup-content />
